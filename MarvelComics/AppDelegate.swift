@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  MarvelComics
 //
-//  Created by Jakub Minkiewicz on 30/07/2022.
+//  Created by Jakub Minkiewicz on 01/08/2022.
 //
 
 import UIKit
